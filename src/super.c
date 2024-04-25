@@ -15,6 +15,7 @@ typedef struct Producto Producto;
 Producto* crearProducto (int id, char * descripcion, float precio);
 int generadorID(int id);
 
+
 char nombres[3][50] = {"leche serenisima 1l","Frutilla 500 Gr", "Arándano 125 Gr"};
 
 int main () 
