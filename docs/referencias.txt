@@ -1,0 +1,12 @@
+productos
+    precios--
+    nombre
+    marca
+    descripcion--
+    imagen
+    id (solo impor tante para programador)--
+    tieneDescuento
+    descuento
+barra de navegacion
+categorias
+SKU
